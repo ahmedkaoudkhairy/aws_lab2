@@ -1,0 +1,8 @@
+Lab 2 "Mount S3 as a file system on EC2":
+
+Create S3 bucket.
+Give EC2 instance permission to access the bucket.
+Install s3fs to interact with S3 as network device file system.
+Mount it properly.
+Create file in EC2 inside mounted directory.
+Check S3 if the file created is there.
